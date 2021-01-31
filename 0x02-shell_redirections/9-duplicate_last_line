@@ -1,2 +1,0 @@
-#!/bin/bash
-tail iacta --lines=1 >> iacta
